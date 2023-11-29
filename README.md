@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a learner in digital solution in learning process
+I'm an apprentice in Systems Development at Bosch.
 
 
 ## 🌐 Socials:
